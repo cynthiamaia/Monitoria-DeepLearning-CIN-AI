@@ -5,3 +5,4 @@
 ![](imagens/colab1.png)
 
 ### 2. Clique na aba GitHub e insira o link do repositório https://github.com/cynthiamaia/MonitoriaEmbraer. Após isso, todos os notebooks no repositório ficarão visíveis, e você poderá abri-los em uma nova guia.
+![](imagens/colab2.png)
